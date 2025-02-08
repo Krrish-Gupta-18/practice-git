@@ -10,10 +10,6 @@ int pow(int x, int n) {
     else return res * res;
 }
 
-void print(string s) {
-    cout << s << endl;
-}
-
 int main() {
 
     cout << "hello world";
